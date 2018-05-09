@@ -14,4 +14,5 @@ cache:
 
 script:
     - "npm run lint"
+    - "npm run unit"
 
