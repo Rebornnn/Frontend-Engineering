@@ -1,4 +1,4 @@
-import { rest } from '../../src/middleware/RESTParser.js';
+import { rest } from '../../../src/middleware/RESTParser.js';
 
 let except = chai.expect;
 let RESTParser = rest({

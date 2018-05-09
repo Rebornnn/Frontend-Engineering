@@ -1,7 +1,7 @@
 {
   "name": "ci-test",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "frontend engineering",
   "author": "hzshaoyy <hzshaoyy@corp.netease.com>",
   "private": true,
   "scripts": {
@@ -47,6 +47,7 @@
     "html-webpack-plugin": "^2.30.1",
     "inject-loader": "^3.0.0",
     "karma": "^1.4.1",
+    "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-coverage": "^1.1.1",
     "karma-coveralls": "^1.1.2",
