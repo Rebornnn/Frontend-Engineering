@@ -18,9 +18,9 @@ script:
     - sh -e /etc/init.d/xvfb start
     - npm run lint
     - npm run unit
-    - npm run cover
+    - npm run coveralls
 
-after_script: cat coverage/lcov.info | node_modules/coveralls/bin/coveralls.js
+
 
 
 
